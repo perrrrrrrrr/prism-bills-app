@@ -1,4 +1,4 @@
-# Prism Bills 💜
+# Prisma 💜
 
 A modern bill tracking app inspired by Prism (the popular bill tracking app that shut down). Built with React + Vite, featuring local storage persistence and browser notifications.
 
